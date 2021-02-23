@@ -1,0 +1,10 @@
+{
+  "welcome-title-page": "Título de bienvenida",
+  "welcome-heading-page": "Encabezado de bienvenida",
+  "weather-title-page": "Título del tiempo",
+  "weather-heading-page": "Encabezado del tiempo",
+  "weather-ssr-title-page": "Título SSR del tiempo",
+  "weather-ssr-heading-page": "Encabezado SSR del tiempo",
+  "pokemon-title-page": "Título de Pokemon",
+  "pokemon-heading-page": "Encabezado de Pokemon"
+}

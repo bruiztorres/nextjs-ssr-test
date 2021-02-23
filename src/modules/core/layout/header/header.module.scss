@@ -1,0 +1,32 @@
+.header {
+  height: 4rem;
+  width: 100%;
+  border-bottom: 1px solid #eaeaea;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  > * {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    list-style: none;
+  }
+
+  &__nav {
+    margin-left: 5rem;
+
+    a {
+      margin-left: 1rem;
+    }
+  }
+
+  &__item {
+    text-transform: uppercase;
+    padding-right: 1rem;
+
+    &.active {
+      color: #0070f3;
+    }
+  }
+}
